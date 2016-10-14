@@ -7,4 +7,5 @@ public class Silinder extends KorgusegaKujund{
 	public double pohjaPindala(){
 		return 3.14*r*r;
 	}
+	//Lisage klass risttahuka tarbeks
 }
